@@ -43,3 +43,8 @@ D:\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\refint\Die-Roller-Project.d
 D:\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.pdb
 D:\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.genruntimeconfig.cache
 D:\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\ref\Die-Roller-Project.dll
+D:\Code-Projects\Die-Roller-Project\bin\Debug\net6.0\Die-Roller-Project.exe
+D:\Code-Projects\Die-Roller-Project\bin\Debug\net6.0\Die-Roller-Project.deps.json
+D:\Code-Projects\Die-Roller-Project\bin\Debug\net6.0\Die-Roller-Project.runtimeconfig.json
+D:\Code-Projects\Die-Roller-Project\bin\Debug\net6.0\Die-Roller-Project.dll
+D:\Code-Projects\Die-Roller-Project\bin\Debug\net6.0\Die-Roller-Project.pdb
