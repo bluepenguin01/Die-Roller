@@ -33,7 +33,7 @@ namespace Project
                 Random randint = new Random();
                 NumberRolled = randint.Next(1,DieSelected+1);
 
-                Console.WriteLine("\nYou rolled a " + NumberRolled + "!\n\n");
+                Console.WriteLine("\nYou rolled a(n) " + NumberRolled + "!\n\n");
                 Console.WriteLine("Press 1 to exit \npress 2 to reroll\n");
 
                 string exitString; 
