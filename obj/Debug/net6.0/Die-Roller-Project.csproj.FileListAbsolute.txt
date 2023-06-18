@@ -18,3 +18,28 @@ C:\Users\junio\Downloads\Die Roller\Die-Roller-Project.deps.json
 C:\Users\junio\Downloads\Die Roller\Die-Roller-Project.runtimeconfig.json
 C:\Users\junio\Downloads\Die Roller\Die-Roller-Project.dll
 C:\Users\junio\Downloads\Die Roller\Die-Roller-Project.pdb
+D:\development stuff\Code-Projects\Die-Roller-Project\bin\Debug\net6.0\Die-Roller-Project.exe
+D:\development stuff\Code-Projects\Die-Roller-Project\bin\Debug\net6.0\Die-Roller-Project.deps.json
+D:\development stuff\Code-Projects\Die-Roller-Project\bin\Debug\net6.0\Die-Roller-Project.runtimeconfig.json
+D:\development stuff\Code-Projects\Die-Roller-Project\bin\Debug\net6.0\Die-Roller-Project.dll
+D:\development stuff\Code-Projects\Die-Roller-Project\bin\Debug\net6.0\Die-Roller-Project.pdb
+D:\development stuff\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.csproj.AssemblyReference.cache
+D:\development stuff\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\development stuff\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.AssemblyInfoInputs.cache
+D:\development stuff\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.AssemblyInfo.cs
+D:\development stuff\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.csproj.CoreCompileInputs.cache
+D:\development stuff\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.dll
+D:\development stuff\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\refint\Die-Roller-Project.dll
+D:\development stuff\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.pdb
+D:\development stuff\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.genruntimeconfig.cache
+D:\development stuff\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\ref\Die-Roller-Project.dll
+D:\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.csproj.AssemblyReference.cache
+D:\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.AssemblyInfoInputs.cache
+D:\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.AssemblyInfo.cs
+D:\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.csproj.CoreCompileInputs.cache
+D:\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.dll
+D:\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\refint\Die-Roller-Project.dll
+D:\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.pdb
+D:\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\Die-Roller-Project.genruntimeconfig.cache
+D:\Code-Projects\Die-Roller-Project\obj\Debug\net6.0\ref\Die-Roller-Project.dll

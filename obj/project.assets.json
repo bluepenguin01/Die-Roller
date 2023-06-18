@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code_Projects\\Die-Roller-Project\\Die-Roller-Project.csproj",
+      "projectUniqueName": "d:\\Code-Projects\\Die-Roller-Project\\Die-Roller-Project.csproj",
       "projectName": "Die-Roller-Project",
-      "projectPath": "D:\\Code_Projects\\Die-Roller-Project\\Die-Roller-Project.csproj",
+      "projectPath": "d:\\Code-Projects\\Die-Roller-Project\\Die-Roller-Project.csproj",
       "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-      "outputPath": "D:\\Code_Projects\\Die-Roller-Project\\obj\\",
+      "outputPath": "d:\\Code-Projects\\Die-Roller-Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config"
