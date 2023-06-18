@@ -1,7 +1,9 @@
 # Simple Die Roller
  roll a die 2-100
-# This is my first pure code projet
-   this is a very simple terminal die roller made in c#. you can roll up to an 100 sided die. this tool was designed to be used with dnd but can be used for anything that requires a die roll.
+# Info
+   This is my first pure code project.
+   this is a very simple terminal die roller made in c#. 
+you can roll up to an 100 sided die.this tool was designed to be used with dnd but can be used for anything that requires a die roll.
    # Use 
       Compile project or download a realease and run the executable. terminal app will guide you through the rest of the steps.
   # Compile
